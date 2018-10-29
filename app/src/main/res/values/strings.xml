@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BtMS</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="bluetooth_master_slave">Bluetooth Master/Slave</string>
+    <string name="enable_bt_notification">Необходимо включить BT для корректной работы приложения</string>
+    <string name="devices">Devices</string>
+    <string name="file">File</string>
+    <string name="choose_file">Выберите файл</string>
+    <string name="no_file">Файл не выбран</string>
+    <string name="send">Send</string>
+    <string name="transfer">Transfer</string>
+    <string name="master">Master</string>
+    <string name="slave">Slave</string>
+    <string name="select_device">Необходимо выбрать девайс для подключения</string>
+    <string name="select_file">Необходимо выбрать файл для отрпавки</string>
+    <string name="go_to">Перейти</string>
+</resources>
